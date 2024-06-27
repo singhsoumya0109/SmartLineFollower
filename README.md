@@ -1,7 +1,7 @@
 # SmartLineFollower
 
-![SmartLineFollower](https://drive.google.com/file/d/1VlpsUwGK9Am_KnDUDGkXyRutjbG_9k7a/view?usp=sharing) <!-- Replace with your project logo or an image -->
-->
+[![SmartLineFollower](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1VlpsUwGK9Am_KnDUDGkXyRutjbG_9k7a/view?usp=sharing)
+
 
 ## Overview
 
