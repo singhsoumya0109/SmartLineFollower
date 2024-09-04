@@ -1,6 +1,6 @@
 # SmartLineFollower
 
-[![SmartLineFollower](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1VlpsUwGK9Am_KnDUDGkXyRutjbG_9k7a/view?usp=sharing)
+[![Let's see how it follows](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1VlpsUwGK9Am_KnDUDGkXyRutjbG_9k7a/view?usp=sharing)
 
 
 ## Overview
